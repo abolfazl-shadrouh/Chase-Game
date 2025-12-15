@@ -40,10 +40,14 @@ To play the game:
 ## 📂 Project Structure
 
 Chase-Game/
+
 ├── assets/ # Game assets: sprites, sounds, etc.
+
 ├── project.sb3 # Scratch project file
+
 ├── README.md # Project documentation
-└── about-game.txt # Additional game information
+
+  └── about-game.txt # Additional game information
 
 
 ---
